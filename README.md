@@ -1,5 +1,6 @@
 # SudokuSolverLibrary
-This is the Sudoku Solving Algorithm I wrote in a previous repository but as a separate library to be used in the future
+This is the Sudoku Solving Algorithm I wrote in a previous repository but as a separate library to be used in the future.
+This code has also been modified to fit Google's C++ Coding style.(With some exceptions)
 
 How to set it up in Visual Studio:
 
